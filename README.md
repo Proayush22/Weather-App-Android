@@ -4,10 +4,10 @@ An Android application that displays current weather conditions and multi-hour f
 
 ## 📱 Features
 
-<img width="300" height="2400" alt="image" src="https://github.com/user-attachments/assets/952b3e5f-3355-40b7-b8d5-b623dfb56e15" />
-<img width="300" height="2400" alt="image" src="https://github.com/user-attachments/assets/d67e117b-5291-49d0-94e1-54e62bd4393d" />
-<img width="300" height="2400" alt="image" src="https://github.com/user-attachments/assets/4dd18ee8-36fa-41ef-b8d7-dbeb47b54252" />
-<img width="300" height="2400" alt="image" src="https://github.com/user-attachments/assets/59b9e206-c571-489c-bd7a-133c0a49eb30" />
+<img width="200" height="2400" alt="image" src="https://github.com/user-attachments/assets/952b3e5f-3355-40b7-b8d5-b623dfb56e15" />
+<img width="200" height="2400" alt="image" src="https://github.com/user-attachments/assets/d67e117b-5291-49d0-94e1-54e62bd4393d" />
+<img width="200" height="2400" alt="image" src="https://github.com/user-attachments/assets/4dd18ee8-36fa-41ef-b8d7-dbeb47b54252" />
+<img width="200" height="2400" alt="image" src="https://github.com/user-attachments/assets/59b9e206-c571-489c-bd7a-133c0a49eb30" />
 
 ## 🌤 Current Weather Overview
 
